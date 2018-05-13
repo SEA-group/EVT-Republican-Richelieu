@@ -1,0 +1,9 @@
+<FGM049_380mm_45_Mle_1935_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/gun/main/FGM503_380mm_45_Mle_1935/lods/FGM503_380mm_45_Mle_1935_dead_lod1	</parent>
+	<nodefullVisual>	content/gameplay/france/gun/main/FGM503_380mm_45_Mle_1935/FGM503_380mm_45_Mle_1935_dead	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGM049_380mm_45_Mle_1935_dead.model>

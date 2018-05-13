@@ -1,0 +1,8 @@
+<FSB002_Richelieu_1940.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/france/ship/battleship/FSB019_Richelieu_1940_3D_skin_Repub/lods/FSB019_Richelieu_1940_3D_skin_Repub_Full_lod4	</parent>
+	<extent>	400.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/france/ship/battleship/FSB019_Richelieu_1940_3D_skin_Repub/FSB019_Richelieu_1940_3D_skin_Repub	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FSB002_Richelieu_1940.model>
