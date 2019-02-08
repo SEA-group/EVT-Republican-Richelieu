@@ -5,11 +5,11 @@
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_EVT_Republican_Richelieu/FSB108_Richelieu/aircraft/FAF005_Bloch_MB_157_a.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/SEA_EVT_Republican_Richelieu/FSB108_Richelieu/aircraft/FAF005_Bloch_MB_157_n.dds	</Texture>
-	</property>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_EVT_Republican_Richelieu/FSB108_Richelieu/aircraft/FAF005_Bloch_MB_157_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_EVT_Republican_Richelieu/FSB108_Richelieu/aircraft/FAF005_Bloch_MB_157_n.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_EVT_Republican_Richelieu/FSB108_Richelieu/aircraft/default_ao.dds	</Texture>
